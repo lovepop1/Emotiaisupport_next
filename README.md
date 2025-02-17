@@ -3,6 +3,9 @@
 ## Overview
 Emoti AI is an AI-powered emotional well-being platform designed to support users in managing their mental health. It offers features such as personalized chatbot interactions, guided thought records, meditation assistance, emotional tracking, and therapeutic suggestions. The platform integrates **Next.js** for the frontend, **Supabase** for database management, and **Google's Gemini API** for AI-driven insights.
 
+## Try it out - 
+https://emoti-a-isupport-zqfg.vercel.app/
+
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (Latest LTS recommended)
