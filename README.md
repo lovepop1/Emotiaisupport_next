@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 yarn install
 # or
 npm install
-
+```
 
 ### 2. Setup Environment Variables
 """
