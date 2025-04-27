@@ -1,7 +1,27 @@
 # Emoti AI
 
 ## Overview
-Emoti AI is an AI-powered emotional well-being platform designed to support users in managing their mental health. It offers features such as personalized chatbot interactions, guided thought records, meditation assistance, emotional tracking, and therapeutic suggestions. The platform integrates **Next.js** for the frontend, **Supabase** for database management, and **Google's Gemini API** for AI-driven insights.
+Emoti AI is an AI-powered emotional well-being platform designed to support users in managing their mental health. It offers features such as personalized chatbot interactions, guided thought records, meditation assistance, emotional tracking, and therapeutic suggestions. The platform integrates **Next.js** for the frontend, **Supabase** for database management, and **Google's Gemini API** for AI-driven insights.Emote AI employs a hybrid AI methodology that integrates Natural Language Processing (NLP), Cognitive Behavioral Therapy (CBT) techniques, and Retrieval-Augmented Generation (RAG) to provide meaningful mental health support.
+
+AI-Powered Chatbot:
+Utilizes Gemini API for conversational AI.
+Hybrid retrieval system combining BM25 (Full-Text Search) and Vector Similarity for content retrieval.
+Emotion detection using sentiment analysis and context modeling.
+
+Thought Records & Emotional Tracking:
+
+Uses structured input fields to collect user thoughts, emotions, and behavioral responses.
+AI-driven cognitive restructuring techniques suggest positive reframing of negative thoughts.
+
+Guided Meditation & Music Therapy:
+
+Personalized meditation sessions recommended based on the user's emotional state.
+AI-driven music recommendation system suggests calming tracks.
+
+Mental Health Quiz & Progress Monitoring:
+
+Uses psychometric assessments to evaluate mental well-being.
+Progress tracking via data visualization to help users identify emotional patterns.
 
 ## Try it out - 
 https://emoti-a-isupport-zqfg.vercel.app/
